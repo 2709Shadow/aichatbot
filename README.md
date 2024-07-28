@@ -52,3 +52,6 @@ A Discord bot that provides AI chat functionality, automatic moderation for inap
 ### Contributing
 
 Feel free to fork this repository and submit pull requests. Contributions are welcome!
+
+### Preview bot
+https://discord.gg/suAEDynUgp
