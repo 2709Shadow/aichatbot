@@ -25,7 +25,7 @@ A Discord bot that provides AI chat functionality, automatic moderation for inap
 1. Clone the repository:
 
    ```bash
-   https://github.com/2709Shadow/aichatbot.git
+   got clone https://github.com/2709Shadow/aichatbot.git
    cd discord-ai-chatbot
 2. Intall dependencies:
    ```
