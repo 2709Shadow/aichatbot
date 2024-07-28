@@ -17,7 +17,7 @@ A Discord bot that provides AI chat functionality, automatic moderation for inap
 ### Prerequisites
 
 - Node.js (v14 or higher)
-- MongoDB instance (local or cloud)
+- MongoDB instance
 - Discord bot token
 
 ### Installation
