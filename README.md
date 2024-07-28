@@ -27,11 +27,9 @@ A Discord bot that provides AI chat functionality, automatic moderation for inap
    ```bash
    git clone https://github.com/yourusername/discord-ai-chatbot.git
    cd discord-ai-chatbot
-
 2. Intall dependencies:
    ```
    npm install
-
 3. Edit .env.example to .env. fill it with your data:
    ```
    BOT_TOKEN=your_bot_token_here
@@ -41,7 +39,7 @@ A Discord bot that provides AI chat functionality, automatic moderation for inap
    ```
    node .
    ```
-   ### Usage 
+### Usage 
 
    Commands
    !setchannel <channelid>: Sets the channel for the bot to respond in.
