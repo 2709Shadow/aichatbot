@@ -37,20 +37,19 @@ A Discord bot that provides AI chat functionality, automatic moderation for inap
    BOT_TOKEN=your_bot_token_here
    MONGODB_URI=your_mongodb_uri_here
    BOT_OWNER=your_discord_user_id_here
-
 4. Start the bot:
    ```
    node .
-
-   ### Usage 
    ```
+   ### Usage 
+
    Commands
-   `!setchannel <channelid>: Sets the channel for the bot to respond in.`
-   `!addbadword <word>: Adds a word to the list of banned words.`
-   `!setup: Creates an AI Chat channel for the bot to use.`
-   `!addchannelexception <channelid>: Adds a channel to the list of link exception channels.`
-   `!help [command]: Shows the list of commands or details of a specific command.`
-   `!sendglobalannounce <message>: Sends a global announcement to all servers (only for the bot owner).`
+   !setchannel <channelid>: Sets the channel for the bot to respond in.
+   !addbadword <word>: Adds a word to the list of banned words.
+   !setup: Creates an AI Chat channel for the bot to use.
+   !addchannelexception <channelid>: Adds a channel to the list of link exception channels.
+   !help [command]: Shows the list of commands or details of a specific command.
+   !sendglobalannounce <message>: Sends a global announcement to all servers (only for the bot owner).
 
 ### Contributing
 
